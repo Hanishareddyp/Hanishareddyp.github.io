@@ -55,13 +55,10 @@ h6{
 }
 
 
-.img{
-	
-	min-width: 200px;
-	min-height: 200px;
-	background-color: darkgrey;
+img{
+	width: 250px;
+	height: 250px;
 	margin: 20px;
-
 }
 .matter{
 	margin-top: 20px;
@@ -165,4 +162,3 @@ h2{
 		font-size: 15px;
 	}
 }
-
